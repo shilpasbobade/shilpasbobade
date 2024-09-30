@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shilpa Tikhe
 - 👀 I’m interested in ...MSExcel,PowerBI,SQL,Python.
-- 🌱 I’m currently learning ...MS Excel, Power BI, SQL and Python
+- 🌱 I’m currently learning ...Data Science.
 - 💞️ I’m looking to collaborate on ...MSExcel, SQL, PowerBI,Python.
 - 📫 How to reach me ...shilpasbobade@gmail.com
 - 
